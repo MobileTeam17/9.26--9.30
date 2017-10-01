@@ -1,0 +1,138 @@
+
+/* Class = "UIBarButtonItem"; title = "Share"; ObjectID = "0G0-ax-ZSK"; */
+"0G0-ax-ZSK.title" = "Share";
+
+/* Class = "UIBarButtonItem"; title = "Users"; ObjectID = "0Ok-YR-QvW"; */
+"0Ok-YR-QvW.title" = "Users";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "0Qy-je-3EQ"; */
+"0Qy-je-3EQ.text" = "Title";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "2vK-CE-V3I"; */
+"2vK-CE-V3I.text" = "Email";
+
+/* Class = "UIViewController"; title = "Accounting"; ObjectID = "8rJ-Kc-sve"; */
+"8rJ-Kc-sve.title" = "Accounting";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "9ti-YJ-eVr"; */
+"9ti-YJ-eVr.text" = "OR";
+
+/* Class = "UINavigationController"; title = "Signup controller"; ObjectID = "Bl3-xB-hrO"; */
+"Bl3-xB-hrO.title" = "Signup controller";
+
+/* Class = "UILabel"; text = "Return Value"; ObjectID = "Bop-xe-ZGM"; */
+"Bop-xe-ZGM.text" = "Return Value";
+
+/* Class = "UINavigationItem"; title = "Add User"; ObjectID = "DEI-TW-X3T"; */
+"DEI-TW-X3T.title" = "Add User";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "FBG-aX-jgC"; */
+"FBG-aX-jgC.title" = "Back";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "HJH-aZ-se3"; */
+"HJH-aZ-se3.title" = "Back";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "LS2-HW-dl0"; */
+"LS2-HW-dl0.text" = "Username";
+
+/* Class = "UIBarButtonItem"; title = "home"; ObjectID = "N1W-ET-jSI"; */
+"N1W-ET-jSI.title" = "home";
+
+/* Class = "UITabBarItem"; title = "Share bill"; ObjectID = "O84-lq-ato"; */
+"O84-lq-ato.title" = "Share bill";
+
+/* Class = "UIViewController"; title = "Signup"; ObjectID = "PJH-gV-OT3"; */
+"PJH-gV-OT3.title" = "Signup";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "Q1p-j9-Bl2"; */
+"Q1p-j9-Bl2.normalTitle" = "Add";
+
+/* Class = "UINavigationController"; title = "Share Controller"; ObjectID = "QAf-nP-PhW"; */
+"QAf-nP-PhW.title" = "Share Controller";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "Rt4-9c-SGl"; */
+"Rt4-9c-SGl.text" = "Password";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "U2u-f8-bLm"; */
+"U2u-f8-bLm.title" = "Back";
+
+/* Class = "UINavigationController"; title = "Accounting Controller"; ObjectID = "UNn-wi-4FA"; */
+"UNn-wi-4FA.title" = "Accounting Controller";
+
+/* Class = "UIViewController"; title = "Login"; ObjectID = "VgQ-QI-FY7"; */
+"VgQ-QI-FY7.title" = "Login";
+
+/* Class = "UILabel"; text = "Return Value"; ObjectID = "W7B-NT-GXs"; */
+"W7B-NT-GXs.text" = "Return Value";
+
+/* Class = "UINavigationItem"; title = "Users"; ObjectID = "Yke-zO-HxN"; */
+"Yke-zO-HxN.title" = "Users";
+
+/* Class = "UITabBarItem"; title = "First"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "First";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "bnn-jd-BUQ"; */
+"bnn-jd-BUQ.text" = "Username";
+
+/* Class = "UITabBarItem"; title = "Second"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "Second";
+
+/* Class = "UILabel"; text = "Repeat Password"; ObjectID = "eK2-64-L7o"; */
+"eK2-64-L7o.text" = "Repeat Password";
+
+/* Class = "UITabBarItem"; title = "Report"; ObjectID = "edS-BV-nfb"; */
+"edS-BV-nfb.title" = "Report";
+
+/* Class = "UINavigationItem"; title = "Accounting Book"; ObjectID = "exT-AS-kNg"; */
+"exT-AS-kNg.title" = "Accounting Book";
+
+/* Class = "UINavigationController"; title = "Login controller"; ObjectID = "fOj-dV-WOu"; */
+"fOj-dV-WOu.title" = "Login controller";
+
+/* Class = "UINavigationItem"; title = "Share"; ObjectID = "gxJ-lX-bhy"; */
+"gxJ-lX-bhy.title" = "Share";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "hg1-de-t7R"; */
+"hg1-de-t7R.title" = "Back";
+
+/* Class = "UINavigationItem"; title = "Azure Mobile Apps"; ObjectID = "jAW-In-buw"; */
+"jAW-In-buw.title" = "Azure Mobile Apps";
+
+/* Class = "UITabBarItem"; title = "Accounting"; ObjectID = "kxp-MT-zUH"; */
+"kxp-MT-zUH.title" = "Accounting";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "mTB-i3-5TX"; */
+"mTB-i3-5TX.normalTitle" = "Sign Up";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "nd2-sH-gcO"; */
+"nd2-sH-gcO.normalTitle" = "Sign Up";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "pJS-IS-aDw"; */
+"pJS-IS-aDw.text" = "Email";
+
+/* Class = "UIBarButtonItem"; title = "+"; ObjectID = "q7c-1B-16f"; */
+"q7c-1B-16f.title" = "+";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "qCM-1b-J38"; */
+"qCM-1b-J38.title" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "qh8-i2-WKh"; */
+"qh8-i2-WKh.normalTitle" = "Log In";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "rHh-Rf-yeY"; */
+"rHh-Rf-yeY.text" = "Username";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "sCY-QG-WfO"; */
+"sCY-QG-WfO.title" = "Item";
+
+/* Class = "UIViewController"; title = "Share"; ObjectID = "tQF-Jh-ekm"; */
+"tQF-Jh-ekm.title" = "Share";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "ucM-m8-jm2"; */
+"ucM-m8-jm2.text" = "Password";
+
+/* Class = "UILabel"; text = "Return Value"; ObjectID = "vS2-RN-cH8"; */
+"vS2-RN-cH8.text" = "Return Value";
+
+/* Class = "UIViewController"; title = "Users"; ObjectID = "vl0-YZ-eI1"; */
+"vl0-YZ-eI1.title" = "Users";
